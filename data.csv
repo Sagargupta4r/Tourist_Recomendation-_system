@@ -1,0 +1,436 @@
+PID,POIs,PRIORITY_1,PRIORITY_2,PRIORITY_3,PRIORITY_4,PRIORITY_5
+POI1,AMBER PALACE,History and Culture,Museum,Local Experiences,Scenic,Adventure
+POI2,CITY PALACE JAIPUR,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI3,JANTAR MANTAR JAIPUR,History and Culture,Museum,-,-,-
+POI4,HAWA MAHAL,History and Culture,-,Local Experiences,Scenic,-
+POI5,ALBERT HALL MUSEUM (CENTRAL MUSEUM),Museum,History and Culture,Scenic,-,-
+POI6,NAHARGARH FORT,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI7,BIRLA TEMPLE JAIPUR,Religious,Local Experiences,Scenic,-,-
+POI8,JAL MAHAL,History and Culture,Scenic,Local Experiences,Adventure,-
+POI9,KING EDWARD MEMORIAL,History and Culture,Museum,Local Experiences,-,Food and Drinks
+POI10,SISODIA RANI PALACE AND GARDEN,Scenic,History and Culture,-,-,-
+POI11,VIDYADHAR GARDEN,Scenic,-,Adventure,-,Religious
+POI12,CENTRAL PARK JAIPUR INDIA,Scenic,-,-,Religious,-
+POI13,ANOKHI MUSEUM OF HAND PRINTING,Museum,History and Culture,Scenic,-,-
+POI14,GOVIND DEVJI TEMPLE,Religious,Local Experiences,-,-,-
+POI15,MOTI DOONGRI GANESH TEMPLE,Religious,Local Experiences,-,-,-
+POI16,DIGAMBER JAIN MANDIR JAIPUR,Religious,Local Experiences,-,-,-
+POI17,GALTAJI,Religious,History and Culture,Local Experiences,-,-
+POI18,STATUE CIRCLE,Scenic,-,-,History and Culture,-
+POI19,RAM NIWAS GARDEN,Scenic,History and Culture,-,-,Food and Drinks
+POI20,ZOOLOGICAL GARDEN JAIPUR,Scenic,Adventure,-,-,Food and Drinks
+POI21,KANAK VRINDAVAN,Scenic,Adventure,-,-,Religious
+POI22,AMAR JAWAN JYOTI JAIPUR,History and Culture,Local Experiences,-,Scenic,-
+POI23,MAHARANI KI CHHATRI JAIPUR,History and Culture,-,Local Experiences,-,Religious
+POI24,NAHARGARH BIOLOGICAL PARK,Scenic,Adventure,-,-,-
+POI25,JAWAHAR KALA KENDRA,Shows and Concerts,Local Experiences,-,Scenic,-
+POI26,RAJ MANDIR,Shows and Concerts,-,History and Culture,-,-
+POI27,SAMBHAR LAKE,Scenic,Adventure,-,-,-
+POI28,AKSHARDHAM TEMPLE JAIPUR,Religious,Local Experiences,-,-,-
+POI29,JAGAT SHIROMANI TEMPLE,Religious,History and Culture,Scenic,-,-
+POI30,JAWAHAR CIRCLE,Scenic,-,-,Shopping,Food and Drinks
+POI31,MUSEUM OF GEM AND JEWELLERY,Museum,-,Food and Drinks,History and Culture,-
+POI32,JHALANA SAFARI PARK IN JAIPUR,Adventure,Scenic,-,-,-
+POI33,MASALA CHOWK,Shopping,Food and Drinks,Scenic,-,-
+POI34,AMRAPALI MUSEUM,Museum,-,Local Experiences,-,-
+POI35,MUSEUM OF LEGACIES JAIPUR INDIA,Museum,-,Local Experiences,-,-
+POI36,CHOKHI DHANI,Local Experiences,Scenic,Food and Drinks,-,-
+POI37,ELEFANTASTIC ELEPHANT FARM,Adventure,Scenic,-,-,Religious
+POI38,PANNA MEENA KI BAOLI,Scenic,History and Culture,-,-,-
+POI39,JOHARI BAZAAR,Food and Drinks,Shopping,-,-,Religious
+POI40,BAPU BAZAAR,Food and Drinks,Shopping,-,-,Religious
+POI41,WORLD TRADE PARK,Shopping,-,-,-,-
+POI42,GARH GANESH MANDIR,Religious,Scenic,Adventure,-,-
+POI43,MUKESH ART GALLERY,Museum,-,Local Experiences,-,-
+POI44,ANGEL RESORT AND AMUSEMENT WATERPARK,Adventure,-,-,-,-
+POI45,B M BIRLA AUDITORIUM,Shows and Concerts,Local Experiences,-,Scenic,-
+POI46,"KHOLE KE HANUMAN JI TEMPLE, JAIPUR",Religious,Scenic,-,-,Adventure
+POI47,SKYFUT,Adventure,Shopping,-,-,-
+POI48,GATORE KI CHHATRI JAIPUR,History and Culture,Scenic,-,-,-
+POI49,RUSIRANI VILLAGE JAIPUR,Local Experiences,History and Culture,-,Adventure,Scenic
+POI50,DEER PARK JAIPUR,Scenic,Adventure,-,-,-
+POI51,RAMGARH LAKE,Scenic,Adventure,-,-,-
+POI52,ST ANDREWS CHURCH JAIPUR,Religious,-,-,-,-
+POI53,JAMVA RAMGARH WILDLIFE SANCTUARY,Adventure,-,Scenic,-,-
+POI54,JWALA MATA MANDIR JAIPUR,Religious,-,-,-,-
+POI55,JAMWAY MATA MANDIR,Religious,-,-,-,-
+POI56,LAXMI NARAYAN TEMPLE JAIPUR,Religious,Scenic,-,-,-
+POI57,DARGAH BURHANUDDIN BABA JAIPUR,Religious,-,-,-,Scenic
+POI58,KULISH SMIRITI VAN JAIPUR,Scenic,-,-,Adventure,Religious
+POI59,DHAMMA THALI VIPASSANA MEDITATION CENTRE,Religious,-,-,-,Shopping
+POI60,CHANDLAI LAKE,Scenic,-,Religious,-,-
+POI61,SHRI GOPINATH TEMPLE JAIPUR,Religious,-,-,-,Scenic
+POI62,DOLLS MUSEUM,Museum,-,-,Local Experiences,Religious
+POI63,PEACOCK GARDEN JAIPUR,Scenic,-,Shopping,-,-
+POI64,ELEMENTS SHOPPING JAIPUR,Shopping,Shows and Concerts,-,-,-
+POI65,CRYSTAL MALL JAIPUR,Shopping,-,Shows and Concerts,-,-
+POI66,HANDICRAFT HAVELI JAIPUR,Local Experiences,-,-,-,-
+POI67,SUNRISE DREAM WORLD AMUSEMENT PARK,Adventure,-,-,-,-
+POI68,BRETHREN CHURCH JAIPUR,Religious,-,-,Shows and Concerts,-
+POI69,MI ROAD,Shopping,Food and Drinks,-,-,-
+POI70,BHANGARH FORT,Adventure,Scenic,Religious,-,-
+POI71,SKY WALTZ BALLOON SAFARI,Adventure,Scenic,-,-,Local Experiences
+POI72,BHOOL BHULAIYA,History and Culture,Religious,Adventure,Food and Drinks,Scenic
+POI73,TAJ MAHAL,History and Culture,Religious,Food and Drinks,Scenic,-
+POI74,PREM MANDIR,Religious,History and Culture,Scenic,Scenic,-
+POI75,INDIA GATE,History and Culture,Scenic,Food and Drinks,-,-
+POI76,Jaipur Wax Museum,Museum,History and Culture,Local Experiences,Adventure,Scenic
+POI77,Samode Palace,History and Culture,Scenic,Local Experiences,Food and Drinks,Adventure
+POI78,Jaiya Shiva Temple,Religious,Local Experiences,Scenic,-,-
+POI79,Silver Mine,Museum,Adventure,Local Experiences,Scenic,History and Culture
+POI80,Railway Museum,Museum,History and Culture,Local Experiences,-,-
+POI81,Kathu Garden,Museum,History and Culture,Local Experiences,Scenic,Adventure
+POI82,Jaipur National Volcano Museum,Museum,Adventure,Local Experiences,-,-
+POI83,Jodhpur Jaipur Study Center,Museum,Local Experiences,History and Culture,-,-
+POI84,Jaipur Science Museum,Museum,Education,Local Experiences,Adventure,Scenic
+POI85,Alfred Museum,Museum,History and Culture,Local Experiences,Scenic,Food and Drinks
+POI86,Jal Sena Jaipur,Museum,History and Culture,Local Experiences,-,-
+POI87,Kapotaj Mandir,Religious,History and Culture,Local Experiences,Scenic,-
+POI88,Mumtaz Mansion,History and Culture,Scenic,Local Experiences,Food and Drinks,Adventure
+POI89,Jaipur Livestock Museum,Museum,History and Culture,Local Experiences,-,-
+POI90,Rajiv Gandhi National Museum,Museum,History and Culture,Local Experiences,Adventure,Scenic
+POI91,Kids Museum Jaipur,Museum,Local Experiences,Adventure,Scenic,Religious
+POI92,Jal Jharna,Museum,Scenic,Adventure,Local Experiences,-
+POI93,Rajasthan Museum of Art,Museum,History and Culture,Local Experiences,Scenic,Food and Drinks
+POI94,Babari Mahal,History and Culture,Scenic,Local Experiences,Adventure,Fashion
+POI95,Jain Museum,Museum,Religious,History and Culture,Local Experiences,Adventure
+POI96,Sandia Mansion,History and Culture,Scenic,Local Experiences,Food and Drinks,Adventure
+POI97,Balaji Temple,Religious,Local Experiences,Scenic,Adventure,-
+POI98,Jai Mata Di Temple,Religious,Local Experiences,Scenic,Adventure,Food and Drinks
+POI99,Mayurva Museum,Museum,History and Culture,Local Experiences,Scenic,Adventure
+POI100,Jagat Mahal,History and Culture,Scenic,Local Experiences,Adventure,Food and Drinks
+POI101,Gateway of India,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI102,Qutub Minar,History and Culture,Scenic,Museum,Local Experiences,Religious
+POI103,Marine Drive,Scenic,Local Experiences,Food and Drinks,Adventure,Shopping
+POI104,Hawa Mahal,History and Culture,Scenic,Local Experiences,Religious,Adventure
+POI105,Red Fort,History and Culture,Museum,Scenic,Local Experiences,Food and Drinks
+POI106,Jaisalmer Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI107,Meenakshi Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI108,Victoria Memorial,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI109,Amber Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI110,Sun Temple Konark,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI111,Gateway of India,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI112,India Gate,Scenic,History and Culture,Local Experiences,Food and Drinks,Religious
+POI113,Golden Temple,Religious,Scenic,Local Experiences,Food and Drinks,Museum
+POI114,Elephanta Caves,History and Culture,Adventure,Scenic,Local Experiences,Religious
+POI115,Lake Pichola,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI116,Leh Palace,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI117,Brihadeeswarar Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI118,Howrah Bridge,Scenic,Local Experiences,History and Culture,Food and Drinks,Adventure
+POI119,Bodh Gaya,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI120,Chennai Marina Beach,Scenic,Local Experiences,Food and Drinks,Adventure,Religious
+POI121,Ajanta Caves,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI122,Ellora Caves,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI123,Mysore Palace,History and Culture,Scenic,Museum,Local Experiences,Food and Drinks
+POI124,Kota Barrage,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI125,Rann of Kutch,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI126,Chitrakoot Falls,Scenic,Adventure,Local Experiences,Religious,Food and Drinks
+POI127,Jim Corbett National Park,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI128,Kolkata Howrah Bridge,Scenic,Local Experiences,History and Culture,Food and Drinks,Adventure
+POI129,Darjeeling Himalayan Railway,Adventure,Local Experiences,Scenic,History and Culture,Food and Drinks
+POI130,Hampi Ruins,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI131,Ranthambore National Park,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI132,Baga Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Shopping
+POI133,Rani ki Vav,History and Culture,Scenic,Museum,Local Experiences,Religious
+POI134,Kanha National Park,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI135,Victoria Terminus,History and Culture,Museum,Scenic,Local Experiences,Food and Drinks
+POI136,Belur Math,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI137,Anand Bhavan,History and Culture,Museum,Local Experiences,Food and Drinks,Scenic
+POI138,Sikkim Rumtek Monastery,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI139,Thar Desert,Scenic,Adventure,Local Experiences,Religious,Food and Drinks
+POI140,Vaishno Devi Temple,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI141,Humayun's Tomb,History and Culture,Scenic,Museum,Local Experiences,Food and Drinks
+POI142,Amber Palace Jaipur,History and Culture,Scenic,Adventure,Local Experiences,Food and Drinks
+POI143,Sundarbans National Park,Adventure,Scenic,Local Experiences,Religious,History and Culture
+POI144,Sanchi Stupa,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI145,Kedarnath Temple,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI146,Palolem Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Shopping
+POI147,Udaipur City Palace,History and Culture,Scenic,Museum,Local Experiences,Food and Drinks
+POI148,Somnath Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI149,Shillong Botanical Garden,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI150,Chandni Chowk,Shopping,Local Experiences,Food and Drinks,History and Culture,Scenic
+POI151,Golden Temple Amritsar,Religious,Scenic,Local Experiences,Food and Drinks,History and Culture
+POI152,Gateway of India Mumbai,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI153,Goa Beaches,Scenic,Local Experiences,Adventure,Food and Drinks,Shopping
+POI154,Kanyakumari Beach,Scenic,Local Experiences,Religious,Adventure,Food and Drinks
+POI155,Amritsar Jallianwala Bagh,History and Culture,Museum,Local Experiences,Scenic,Religious
+POI156,Majuli Island,Scenic,Local Experiences,Adventure,Religious,History and Culture
+POI157,Meghalaya Caves,Adventure,Scenic,Local Experiences,Religious,History and Culture
+POI158,Diu Island,Scenic,Local Experiences,Adventure,Food and Drinks,Religious
+POI159,Leh-Ladakh,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI160,Amarnath Cave,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI161,Sariska Tiger Reserve,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI162,Bodh Gaya Mahabodhi Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI163,Borivali National Park,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI164,Kota Tower,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI165,Kalighat Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI166,Darjeeling Tea Gardens,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI167,Nanda Devi National Park,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI168,Rishikesh Ganga Aarti,Religious,Local Experiences,Scenic,Adventure,Food and Drinks
+POI169,Chidambaram Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI170,Srinagar Dal Lake,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI171,Spiti Valley,Adventure,Scenic,Local Experiences,Religious,History and Culture
+POI172,Khajuraho Temples,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI173,Goa Old Churches,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI174,Bijapur Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI175,Sunderbans Mangrove Forest,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI176,Alleppey Backwaters,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI177,Rishikesh Adventure Sports,Adventure,Local Experiences,Scenic,Food and Drinks,Religious
+POI178,Goa Dudhsagar Falls,Scenic,Adventure,Local Experiences,Food and Drinks,History and Culture
+POI179,Mathura Vrindavan,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI180,Channapatna Toys,Local Experiences,Shopping,Food and Drinks,Scenic,History and Culture
+POI181,Kodai Lake,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI182,Thiruvananthapuram Padmanabhaswamy Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI183,Jaipur Albert Hall Museum,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI184,War Memorial India Gate,History and Culture,Scenic,Local Experiences,Food and Drinks,Religious
+POI185,Shirdi Sai Baba Temple,Religious,Local Experiences,Scenic,Adventure,History and Culture
+POI186,Varkala Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Religious
+POI187,Amritsar Golden Temple Complex,Religious,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI188,Bikaner Junagarh Fort,History and Culture,Scenic,Local Experiences,Adventure,Religious
+POI189,Ahmedabad Sabarmati Ashram,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI190,Bhubaneswar Lingaraj Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI191,Kochi Backwaters,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI192,Mount Abu,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI193,Varanasi Ghats,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI194,Kanchipuram Temples,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI195,Srinagar Mughal Gardens,Scenic,Local Experiences,Adventure,History and Culture,Religious
+POI196,Kumbhalgarh Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI197,Ajmer Sharif Dargah,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI198,Puri Jagannath Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI199,Gulmarg,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI200,Ladakh Monasteries,Religious,Scenic,Adventure,Local Experiences,History and Culture
+POI201,Vaikom Mahadeva Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI202,Sun Temple Konark,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI203,Kulmarg,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI204,Lotus Temple,Religious,Scenic,Local Experiences,Museum,Food and Drinks
+POI205,Raj Ghat,History and Culture,Religious,Scenic,Local Experiences,Food and Drinks
+POI206,India Habitat Centre,Museum,History and Culture,Local Experiences,Shopping,Food and Drinks
+POI207,Birla Mandir,Religious,Scenic,Local Experiences,History and Culture,Adventure
+POI208,Srinagar Mughal Gardens,Scenic,Local Experiences,History and Culture,Adventure,Religious
+POI209,Mysore Zoo,Scenic,Local Experiences,Adventure,Food and Drinks,Museum
+POI210,Banni Grasslands Reserve,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI211,Kanchanaburi War Cemetery,History and Culture,Museum,Scenic,Local Experiences,Adventure
+POI212,Hampi Bazaar,Local Experiences,History and Culture,Scenic,Adventure,Food and Drinks
+POI213,Nanda Devi Temple,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI214,Victoria Bridge,Scenic,Local Experiences,History and Culture,Adventure,Food and Drinks
+POI215,Jog Falls,Scenic,Adventure,Local Experiences,History and Culture,Religious
+POI216,Raja Ghat,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI217,Elephanta Caves,History and Culture,Adventure,Scenic,Local Experiences,Religious
+POI218,Chitrakoot Falls,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI219,Bodh Gaya Mahabodhi Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI220,Thiruvannamalai Arunachaleswarar Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI221,Charminar,History and Culture,Scenic,Local Experiences,Shopping,Food and Drinks
+POI222,Kanchenjunga National Park,Scenic,Adventure,Local Experiences,History and Culture,Religious
+POI223,Bengaluru Palace,History and Culture,Scenic,Museum,Local Experiences,Food and Drinks
+POI224,Digha Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Shopping
+POI225,Bondi Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Religious
+POI226,Rann Utsav,Local Experiences,Scenic,Adventure,Food and Drinks,History and Culture
+POI227,Meenakshi Amman Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI228,Kolhapur Mahalaxmi Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI229,Mukteshwar Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI230,Somnath Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI231,Chennai Fort St. George,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI232,Malabar Hill,Scenic,Local Experiences,Shopping,Food and Drinks,Adventure
+POI233,Bara Imambara,History and Culture,Scenic,Local Experiences,Religious,Adventure
+POI234,Amarnath Cave,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI235,Jagannath Temple Puri,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI236,Rancho Garden,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI237,Rang Ghar,History and Culture,Scenic,Local Experiences,Adventure,Religious
+POI238,Kashmir House,History and Culture,Local Experiences,Scenic,Adventure,Food and Drinks
+POI239,Hampi Stone Temples,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI240,Gulmarg Gondola,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI241,Chandigarh Rock Garden,Local Experiences,Scenic,History and Culture,Adventure,Food and Drinks
+POI242,Vaishno Devi Mandir,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI243,Chitradurga Fort,History and Culture,Scenic,Local Experiences,Adventure,Religious
+POI244,Gateway of India Mumbai,Scenic,History and Culture,Local Experiences,Food and Drinks,Adventure
+POI245,Jag Mandir,History and Culture,Scenic,Local Experiences,Religious,Adventure
+POI246,Rajpath,Scenic,Local Experiences,History and Culture,Adventure,Food and Drinks
+POI247,Darjeeling Himalayan Railway,Adventure,Local Experiences,Scenic,History and Culture,Religious
+POI248,Chittorgarh Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI249,Ladakh Monasteries,Religious,Scenic,Adventure,Local Experiences,History and Culture
+POI250,Srinagar Shikara Ride,Scenic,Local Experiences,Adventure,History and Culture,Religious
+POI251,Bijapur Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI252,Ujjain Mahakaleshwar Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI253,Rishikesh Adventure Sports,Adventure,Local Experiences,Scenic,Food and Drinks,Religious
+POI254,Sundarbans Mangrove Forest,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI255,Alleppey Backwaters,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI256,Puri Beach,Scenic,Local Experiences,Adventure,Food and Drinks,Religious
+POI257,Ranthambore National Park,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI258,Vaishno Devi Temple,Religious,Adventure,Local Experiences,Scenic,History and Culture
+POI259,Anand Bhavan,History and Culture,Museum,Local Experiences,Food and Drinks,Scenic
+POI260,Birla Science Museum,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI261,EsselWorld,Adventure,Local Experiences,Food and Drinks,Scenic,Shopping
+POI262,Sariska Tiger Reserve,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI263,Dudh Sagar Falls,Scenic,Adventure,Local Experiences,Food and Drinks,History and Culture
+POI264,Rishikesh Ganga Aarti,Religious,Local Experiences,Scenic,Adventure,Food and Drinks
+POI265,Bhubaneswar Lingaraj Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI266,Kochi Backwaters,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI267,Mount Abu,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI268,Varanasi Ghats,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI269,Kanchipuram Temples,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI270,Srinagar Mughal Gardens,Scenic,Local Experiences,Adventure,History and Culture,Religious
+POI271,Kumbhalgarh Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI272,Ajmer Sharif Dargah,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI273,Puri Jagannath Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI274,Gulmarg,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI275,Ladakh Monasteries,Religious,Scenic,Adventure,Local Experiences,History and Culture
+POI276,Sariska Tiger Reserve,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI277,Bodh Gaya Mahabodhi Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI278,Borivali National Park,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI279,Kota Tower,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI280,Kalighat Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI281,Darjeeling Tea Gardens,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI282,Nanda Devi National Park,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI283,Rishikesh Ganga Aarti,Religious,Local Experiences,Scenic,Adventure,Food and Drinks
+POI284,Chidambaram Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI285,Srinagar Dal Lake,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI286,Spiti Valley,Adventure,Scenic,Local Experiences,Religious,History and Culture
+POI287,Khajuraho Temples,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI288,Goa Old Churches,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI289,Bijapur Fort,History and Culture,Scenic,Adventure,Local Experiences,Religious
+POI290,Sunderbans Mangrove Forest,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI291,Alleppey Backwaters,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI292,Rishikesh Adventure Sports,Adventure,Local Experiences,Scenic,Food and Drinks,Religious
+POI293,Goa Dudhsagar Falls,Scenic,Adventure,Local Experiences,Food and Drinks,History and Culture
+POI294,Mathura Vrindavan,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI295,Channapatna Toys,Local Experiences,Shopping,Food and Drinks,Scenic,History and Culture
+POI296,Kodai Lake,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI297,Thiruvananthapuram Padmanabhaswamy Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI298,Jaipur Albert Hall Museum,Museum,History and Culture,Scenic,Local Experiences,Food and Drinks
+POI299,War Memorial India Gate,History and Culture,Scenic,Local Experiences,Food and Drinks,Religious
+POI300,Shirdi Sai Baba Temple,Religious,Local Experiences,Scenic,Adventure,History and Culture
+POI301,Pashupatinath Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI302,Boudhanath Stupa,Religious,Scenic,History and Culture,Local Experiences,Food and Drinks
+POI303,Swayambhunath (Monkey Temple),Religious,Scenic,History and Culture,Local Experiences,Adventure
+POI304,Durbar Square Kathmandu,History and Culture,Museum,Scenic,Local Experiences,Food and Drinks
+POI305,Patan Durbar Square,History and Culture,Museum,Scenic,Local Experiences,Shopping
+POI306,Bhaktapur Durbar Square,History and Culture,Museum,Scenic,Local Experiences,Food and Drinks
+POI307,Gosaikunda Lake,Adventure,Scenic,Local Experiences,Religious,History and Culture
+POI308,Chitwan National Park,Adventure,Scenic,Local Experiences,Wildlife,Food and Drinks
+POI309,Pokhara Lakeside,Scenic,Local Experiences,Adventure,Food and Drinks,Shopping
+POI310,Annapurna Circuit Trek,Adventure,Scenic,Local Experiences,History and Culture,Wildlife
+POI311,Everest Base Camp Trek,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI312,Langtang Valley Trek,Adventure,Scenic,Local Experiences,Wildlife,History and Culture
+POI313,Rara Lake,Scenic,Adventure,Local Experiences,Wildlife,Religious
+POI314,Dhulikhel,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI315,Tansen,Local Experiences,Scenic,History and Culture,Food and Drinks,Adventure
+POI316,Kailash Mountain,Adventure,Religious,Scenic,Local Experiences,History and Culture
+POI317,Lumbini (Birthplace of Buddha),Religious,History and Culture,Scenic,Local Experiences,Museum
+POI318,Muktinath Temple,Religious,Adventure,Scenic,Local Experiences,History and Culture
+POI319,Janakpur Durbar,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI320,Kopan Monastery,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI321,Mirik Lake,Scenic,Local Experiences,Adventure,Wildlife,Food and Drinks
+POI322,Bardia National Park,Adventure,Scenic,Local Experiences,Wildlife,History and Culture
+POI323,Sagarmatha National Park,Adventure,Scenic,Local Experiences,Wildlife,History and Culture
+POI324,Il?m Tea Gardens,Scenic,Local Experiences,Food and Drinks,History and Culture,Adventure
+POI325,Jomsom,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI326,Mount Manaslu,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI327,Kalinchowk Bhagwati Temple,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI328,Seti River Gorge,Scenic,Adventure,Local Experiences,History and Culture,Food and Drinks
+POI329,Bagmati River,Scenic,Religious,Local Experiences,Adventure,History and Culture
+POI330,Panauti,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI331,Koshi Tappu Wildlife Reserve,Adventure,Scenic,Local Experiences,Wildlife,History and Culture
+POI332,Siddhartha Gumba,Religious,Scenic,Local Experiences,History and Culture,Adventure
+POI333,Baglung,Local Experiences,Scenic,Adventure,History and Culture,Food and Drinks
+POI334,Terai Mangroves,Wildlife,Scenic,Adventure,Local Experiences,History and Culture
+POI335,Bardiya National Park,Adventure,Wildlife,Scenic,Local Experiences,History and Culture
+POI336,Sindhupalchowk,Scenic,Local Experiences,Adventure,History and Culture,Religious
+POI337,Daman,Scenic,Local Experiences,Adventure,Food and Drinks,History and Culture
+POI338,Janakpur,History and Culture,Religious,Scenic,Local Experiences,Adventure
+POI339,Muktinath,Religious,Adventure,Scenic,Local Experiences,History and Culture
+POI340,Poon Hill,Scenic,Adventure,Local Experiences,History and Culture,Food and Drinks
+POI341,Nuwakot,History and Culture,Scenic,Local Experiences,Adventure,Religious
+POI342,Balaju,Local Experiences,Scenic,History and Culture,Food and Drinks,Adventure
+POI343,Narayanhiti Palace Museum,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI344,Dhulikhel View Tower,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI345,Sarangkot,Scenic,Adventure,Local Experiences,History and Culture,Food and Drinks
+POI346,Bhimeshwar Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI347,Kathmandu Zoo,Wildlife,Local Experiences,Scenic,Food and Drinks,Adventure
+POI348,Tanglang Waterfall,Scenic,Adventure,Local Experiences,History and Culture,Religious
+POI349,Gokyo Lakes,Scenic,Adventure,Local Experiences,History and Culture,Religious
+POI350,Jiri,Adventure,Local Experiences,Scenic,History and Culture,Food and Drinks
+POI351,Sankhu,Local Experiences,History and Culture,Scenic,Religious,Adventure
+POI352,Bhaktapur National Park,Adventure,Wildlife,Scenic,Local Experiences,History and Culture
+POI353,Bardia River Safari,Adventure,Wildlife,Local Experiences,Scenic,Food and Drinks
+POI354,Lalitpur Durbar Square,History and Culture,Museum,Scenic,Local Experiences,Food and Drinks
+POI355,Thamel,Shopping,Local Experiences,Food and Drinks,Scenic,Adventure
+POI356,Kirtipur,History and Culture,Local Experiences,Scenic,Religious,Adventure
+POI357,Bhadgaon,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI358,Kopan Monastery Retreat,Religious,Local Experiences,Scenic,Adventure,History and Culture
+POI359,Godavari Botanical Garden,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI360,Rijal Old Market,Shopping,Local Experiences,Food and Drinks,History and Culture,Scenic
+POI361,Khokna Cave,Adventure,Scenic,Local Experiences,History and Culture,Wildlife
+POI362,Panauti Durbar Square,History and Culture,Museum,Scenic,Local Experiences,Adventure
+POI363,Sainbu Bhairab Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI364,Neelkantha Mahadev Temple,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI365,Lele,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI366,Dormaa,Local Experiences,Scenic,Adventure,History and Culture,Food and Drinks
+POI367,Muktinath View Point,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI368,Chitlang,Adventure,Scenic,Local Experiences,History and Culture,Food and Drinks
+POI369,Chabahil Zoo,Wildlife,Local Experiences,Scenic,Adventure,History and Culture
+POI370,Shankharapur,Local Experiences,History and Culture,Scenic,Adventure,Religious
+POI371,Sarangkot Sunrise,Scenic,Adventure,Local Experiences,History and Culture,Food and Drinks
+POI372,Gyankali Temple,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI373,Budhagaung,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI374,Chitwan River,Adventure,Wildlife,Scenic,Local Experiences,History and Culture
+POI375,Devghat,Religious,Scenic,Local Experiences,Adventure,History and Culture
+POI376,Damauli,Local Experiences,Scenic,History and Culture,Adventure,Food and Drinks
+POI377,Gandaki River,Scenic,Adventure,Local Experiences,History and Culture,Religious
+POI378,Nilkantha Cave,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI379,Sankhu Heritage,History and Culture,Museum,Scenic,Local Experiences,Adventure
+POI380,Thamel Market,Shopping,Local Experiences,Food and Drinks,Scenic,Adventure
+POI381,Gaindakot,Local Experiences,Scenic,Adventure,History and Culture,Food and Drinks
+POI382,Jomsom Muktinath,Religious,Adventure,Scenic,Local Experiences,History and Culture
+POI383,Baglung Hill,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI384,Gyantse,History and Culture,Museum,Scenic,Local Experiences,Adventure
+POI385,Syangja,Local Experiences,Scenic,Adventure,History and Culture,Food and Drinks
+POI386,Simikot,Adventure,Local Experiences,Scenic,History and Culture,Religious
+POI387,Kantipur Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI388,Shree Mahamaya Temple,Religious,History and Culture,Scenic,Local Experiences,Adventure
+POI389,Shivapuri National Park,Adventure,Scenic,Local Experiences,Wildlife,History and Culture
+POI390,Dhulikhel Trek,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI391,Tansen Durbar,History and Culture,Museum,Scenic,Local Experiences,Adventure
+POI392,Lalitpur Museum,History and Culture,Museum,Local Experiences,Scenic,Food and Drinks
+POI393,Bhaktapur Pottery Square,Local Experiences,History and Culture,Scenic,Adventure,Food and Drinks
+POI394,Sankhu Caves,Adventure,Scenic,Local Experiences,History and Culture,Religious
+POI395,Kalinchowk,Scenic,Adventure,Local Experiences,Religious,History and Culture
+POI396,Muktinath Temple Trail,Religious,Adventure,Scenic,Local Experiences,History and Culture
+POI397,Kalimati Cemetery,History and Culture,Museum,Local Experiences,Scenic,Adventure
+POI398,Swoyambhunath Light Show,Shows and Concerts,Scenic,Local Experiences,Adventure,History and Culture
+POI399,Bardibas,Local Experiences,Scenic,Adventure,History and Culture,Food and Drinks
+POI400,Lalitpur Gardens,Scenic,Local Experiences,Adventure,History and Culture,Food and Drinks
+POI401,Kathmandu Durbar Square,History and Culture,Local Experiences,Museum,Religious Site,Scenic
+POI402,Pashupatinath Temple,Religious Site,History and Culture,Scenic,-,-
+POI403,Swayambhunath Stupa (Monkey Temple),Religious Site,Scenic,Local Experiences,Adventure,-
+POI404,Pokhara (Phewa Lake),Scenic,Adventure,Relaxation,Water Activities,Local Experiences
+POI405,Chitwan National Park,Adventure,Wildlife,Scenic,Local Experiences,-
+POI406,Lumbini (Birthplace of Buddha),Religious Site,History and Culture,Scenic,-,-
+POI407,Everest Base Camp,Adventure,Scenic,Trekking,Local Experiences,-
+POI408,Annapurna Circuit,Adventure,Scenic,Trekking,Local Experiences,-
+POI409,Bhaktapur Durbar Square,History and Culture,Local Experiences,Museum,-,-
+POI410,Patan Durbar Square,History and Culture,Local Experiences,Museum,-,-
+POI411,Gosaikunda Lake,Religious Site,Adventure,Scenic,Trekking,-
+POI412,Rara Lake,Scenic,Adventure,Local Experiences,Relaxation,-
+POI413,Langtang National Park,Adventure,Wildlife,Scenic,Trekking,-
+POI414,Janaki Temple,Religious Site,History and Culture,Scenic,-,-
+POI415,Bandipur,Local Experiences,Scenic,History and Culture,-,-
+POI416,Ilam Tea Garden,Scenic,Relaxation,Local Experiences,-,-
+POI417,Nagarkot,Scenic,Adventure,Relaxation,-,-
+POI418,Dhulikhel,Scenic,Relaxation,Adventure,-,-
+POI419,Upper Mustang,Adventure,Scenic,Local Experiences,History and Culture,-
+POI420,Manang Valley,Adventure,Scenic,Trekking,-,-
+POI421,Gorkha Durbar,History and Culture,Scenic,Local Experiences,-,-
+POI422,Koshi Tappu Wildlife Reserve,Wildlife,Adventure,Scenic,-,-
+POI423,Helambu Region,Adventure,Scenic,Trekking,-,-
+POI424,Kalinchowk Bhagwati Temple,Religious Site,Adventure,Scenic,-,-
+POI425,Phulchowki Hill,Adventure,Scenic,Local Experiences,-,-
+POI426,Sundarijal,Adventure,Scenic,Trekking,Relaxation,-
+POI427,Changu Narayan Temple,Religious Site,History and Culture,Scenic,-,-
+POI428,Tilicho Lake,Adventure,Scenic,Trekking,-,-
+POI429,Panchase Hill,Scenic,Adventure,Trekking,-,-
+POI430,Shuklaphanta National Park,Wildlife,Scenic,Adventure,-,-
+POI431,Kopan Monastery,Religious Site,Relaxation,Local Experiences,-,-
+POI432,Boudhanath Stupa,Religious Site,Scenic,Local Experiences,History and Culture,-
+POI433,Tansen (Palpa),History and Culture,Scenic,Local Experiences,-,-
+POI434,Sailung,Scenic,Trekking,Adventure,Local Experiences,-
+POI435,Makalu Base Camp,Adventure,Trekking,Scenic,-,-
